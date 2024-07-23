@@ -1,6 +1,6 @@
 package ex_2307;
 
-import java.util.Scanner;
+
 
 public class LAB002 {
     public static void main(String[] args) {
