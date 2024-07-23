@@ -16,7 +16,7 @@ For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the
             if (i%3==0&&i%5==0) System.out.println("FizzBuzz");
                 //maximum condition should always be at the top
             else if (i%3==0) System.out.println("Fizz");
-            else if (i%5==0) System.out.println("Buzzz");
+            else if (i%5==0) System.out.println("Buzz");
             else System.out.println(i);
         }
 
